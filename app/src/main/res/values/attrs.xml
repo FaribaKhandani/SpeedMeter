@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SpeedometerView">
+        <attr name="speedmeterTextColor" format="color" />
+        <attr name="speedmeterTextSize" format="dimension" />
+        <attr name="SpeedmeterneedleColor" format="color" />
+    </declare-styleable>
+
+    <declare-styleable name="TachometerView">
+        <attr name="tachmeterTextColor" format="color" />
+        <attr name="tachmeterTextSize" format="dimension" />
+        <attr name="TachmetertachSerifsColor" format="color" />
+        <attr name="TachmetertachSerifsLength" format="dimension" />
+    </declare-styleable>
+</resources>
